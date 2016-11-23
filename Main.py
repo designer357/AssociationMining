@@ -6,7 +6,7 @@ from S5GenerateItem import *
 from S6Apriori import *
 filter_size = 7
 window = 120
-k = 5
+k = 2
 min_supp = 0.3
 min_conf = 0.6
 
