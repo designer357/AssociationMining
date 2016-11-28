@@ -1,0 +1,1 @@
+NORMALVOLTAGE------------>MINVOLTAGE, confidence:0.632567432567

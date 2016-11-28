@@ -1,0 +1,1 @@
+TOTALVOLTAGE------------>TOTALCURRENT, confidence:0.961015412511
