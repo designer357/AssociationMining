@@ -1,675 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e40415c-f242-4f9b-b1f6-f2617a12fafb" name="Default" comment="" />
-    <list id="1e5ea418-6383-4849-a329-65cf597e2825" name="New changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/imgs/emwa_window.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/imgs/holt_winters_average.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/imgs/liner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/imgs/lowess.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/imgs/poly.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_Condition_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_Result_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_10/Rule_Condition_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_10/Rule_Result_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_11/Rule_Condition_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_11/Rule_Result_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_12/Rule_Condition_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_12/Rule_Result_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_13/Rule_Condition_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_13/Rule_Result_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_14/Rule_Condition_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_14/Rule_Result_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_15/Rule_Condition_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_15/Rule_Result_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_Condition_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_Result_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_Condition_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_Result_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_Condition_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_Result_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_Condition_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_Result_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_Condition_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_Result_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_Condition_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_Result_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_8/Rule_Condition_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_8/Rule_Result_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_9/Rule_Condition_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_9/Rule_Result_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_Condition_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_Result_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_10/Rule_Condition_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_10/Rule_Result_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_11/Rule_Condition_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_11/Rule_Result_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_12/Rule_Condition_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_12/Rule_Result_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_13/Rule_Condition_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_13/Rule_Result_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_14/Rule_Condition_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_14/Rule_Result_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_15/Rule_Condition_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_15/Rule_Result_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_16/Rule_Condition_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_16/Rule_Result_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_17/Rule_Condition_17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_17/Rule_Result_17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_18/Rule_Condition_18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_18/Rule_Result_18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_19/Rule_Condition_19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_19/Rule_Result_19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_Condition_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_Result_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_20/Rule_Condition_20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_20/Rule_Result_20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_21/Rule_Condition_21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_21/Rule_Result_21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_22/Rule_Condition_22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_22/Rule_Result_22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_23/Rule_Condition_23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_23/Rule_Result_23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_24/Rule_Condition_24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_24/Rule_Result_24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_25/Rule_Condition_25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_25/Rule_Result_25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_26/Rule_Condition_26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_26/Rule_Result_26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_27/Rule_Condition_27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_27/Rule_Result_27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_28/Rule_Condition_28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_28/Rule_Result_28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_29/Rule_Condition_29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_29/Rule_Result_29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_3/Rule_Condition_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_3/Rule_Result_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_30/Rule_Condition_30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_30/Rule_Result_30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_31/Rule_Condition_31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_31/Rule_Result_31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_32/Rule_Condition_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_32/Rule_Result_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_33/Rule_Condition_33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_33/Rule_Result_33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_34/Rule_Condition_34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_34/Rule_Result_34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_35/Rule_Condition_35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_35/Rule_Result_35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_36/Rule_Condition_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_36/Rule_Result_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_37/Rule_Condition_37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_37/Rule_Result_37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_38/Rule_Condition_38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_38/Rule_Result_38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_39/Rule_Condition_39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_39/Rule_Result_39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_4/Rule_Condition_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_4/Rule_Result_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_40/Rule_Condition_40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_40/Rule_Result_40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_41/Rule_Condition_41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_41/Rule_Result_41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_42/Rule_Condition_42.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_42/Rule_Result_42.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_43/Rule_Condition_43.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_43/Rule_Result_43.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_44/Rule_Condition_44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_44/Rule_Result_44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_45/Rule_Condition_45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_45/Rule_Result_45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_46/Rule_Condition_46.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_46/Rule_Result_46.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_47/Rule_Condition_47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_47/Rule_Result_47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_48/Rule_Condition_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_48/Rule_Result_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_49/Rule_Condition_49.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_49/Rule_Result_49.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_5/Rule_Condition_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_5/Rule_Result_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_50/Rule_Condition_50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_50/Rule_Result_50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_51/Rule_Condition_51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_51/Rule_Result_51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_52/Rule_Condition_52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_52/Rule_Result_52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_53/Rule_Condition_53.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_53/Rule_Result_53.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_54/Rule_Condition_54.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_54/Rule_Result_54.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_55/Rule_Condition_55.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_55/Rule_Result_55.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_6/Rule_Condition_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_6/Rule_Result_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_7/Rule_Condition_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_7/Rule_Result_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_8/Rule_Condition_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_8/Rule_Result_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_9/Rule_Condition_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_9/Rule_Result_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_Condition_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_Result_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_2/Rule_Condition_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_2/Rule_Result_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_3/Rule_Condition_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_3/Rule_Result_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_Condition_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_Result_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_Condition_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_Result_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_4_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_Condition_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_4_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_Result_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_Condition_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_Result_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_Condition_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_Result_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_Condition_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_Result_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_Condition_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_Result_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_Condition_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_Result_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_Condition_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_Result_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_Condition_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_Result_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/AssociationMining.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/S6Apriori.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/ewma.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/host1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/host2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/liner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/lowess.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/poly.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/readjson.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backup/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_Condition_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_Result_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_10/Rule_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_10/Rule_Condition_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_10/Rule_Result_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_11/Rule_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_11/Rule_Condition_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_11/Rule_Result_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_12/Rule_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_12/Rule_Condition_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_12/Rule_Result_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_13/Rule_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_13/Rule_Condition_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_13/Rule_Result_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_14/Rule_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_14/Rule_Condition_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_14/Rule_Result_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_15/Rule_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_15/Rule_Condition_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_15/Rule_Result_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_Condition_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_Result_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_Condition_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_Result_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_Condition_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_Result_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_Condition_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_Result_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_Condition_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_Result_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_Condition_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_Result_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_8/Rule_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_8/Rule_Condition_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_8/Rule_Result_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_9/Rule_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_9/Rule_Condition_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_120_K_5_MinSupp_0.3_MinConf_0.6/Rule_9/Rule_Result_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_Condition_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_Result_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_10/Rule_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_10/Rule_Condition_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_10/Rule_Result_10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_11/Rule_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_11/Rule_Condition_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_11/Rule_Result_11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_12/Rule_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_12/Rule_Condition_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_12/Rule_Result_12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_13/Rule_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_13/Rule_Condition_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_13/Rule_Result_13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_14/Rule_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_14/Rule_Condition_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_14/Rule_Result_14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_15/Rule_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_15/Rule_Condition_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_15/Rule_Result_15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_16/Rule_16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_16/Rule_Condition_16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_16/Rule_Result_16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_17/Rule_17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_17/Rule_Condition_17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_17/Rule_Result_17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_18/Rule_18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_18/Rule_Condition_18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_18/Rule_Result_18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_19/Rule_19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_19/Rule_Condition_19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_19/Rule_Result_19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_Condition_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_Result_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_20/Rule_20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_20/Rule_Condition_20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_20/Rule_Result_20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_21/Rule_21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_21/Rule_Condition_21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_21/Rule_Result_21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_22/Rule_22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_22/Rule_Condition_22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_22/Rule_Result_22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_23/Rule_23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_23/Rule_Condition_23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_23/Rule_Result_23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_24/Rule_24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_24/Rule_Condition_24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_24/Rule_Result_24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_25/Rule_25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_25/Rule_Condition_25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_25/Rule_Result_25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_26/Rule_26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_26/Rule_Condition_26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_26/Rule_Result_26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_27/Rule_27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_27/Rule_Condition_27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_27/Rule_Result_27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_28/Rule_28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_28/Rule_Condition_28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_28/Rule_Result_28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_29/Rule_29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_29/Rule_Condition_29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_29/Rule_Result_29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_3/Rule_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_3/Rule_Condition_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_3/Rule_Result_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_30/Rule_30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_30/Rule_Condition_30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_30/Rule_Result_30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_31/Rule_31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_31/Rule_Condition_31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_31/Rule_Result_31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_32/Rule_32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_32/Rule_Condition_32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_32/Rule_Result_32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_33/Rule_33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_33/Rule_Condition_33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_33/Rule_Result_33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_34/Rule_34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_34/Rule_Condition_34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_34/Rule_Result_34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_35/Rule_35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_35/Rule_Condition_35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_35/Rule_Result_35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_36/Rule_36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_36/Rule_Condition_36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_36/Rule_Result_36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_37/Rule_37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_37/Rule_Condition_37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_37/Rule_Result_37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_38/Rule_38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_38/Rule_Condition_38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_38/Rule_Result_38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_39/Rule_39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_39/Rule_Condition_39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_39/Rule_Result_39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_4/Rule_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_4/Rule_Condition_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_4/Rule_Result_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_40/Rule_40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_40/Rule_Condition_40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_40/Rule_Result_40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_41/Rule_41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_41/Rule_Condition_41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_41/Rule_Result_41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_42/Rule_42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_42/Rule_Condition_42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_42/Rule_Result_42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_43/Rule_43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_43/Rule_Condition_43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_43/Rule_Result_43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_44/Rule_44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_44/Rule_Condition_44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_44/Rule_Result_44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_45/Rule_45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_45/Rule_Condition_45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_45/Rule_Result_45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_46/Rule_46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_46/Rule_Condition_46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_46/Rule_Result_46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_47/Rule_47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_47/Rule_Condition_47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_47/Rule_Result_47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_48/Rule_48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_48/Rule_Condition_48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_48/Rule_Result_48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_49/Rule_49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_49/Rule_Condition_49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_49/Rule_Result_49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_5/Rule_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_5/Rule_Condition_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_5/Rule_Result_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_50/Rule_50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_50/Rule_Condition_50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_50/Rule_Result_50.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_51/Rule_51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_51/Rule_Condition_51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_51/Rule_Result_51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_52/Rule_52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_52/Rule_Condition_52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_52/Rule_Result_52.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_53/Rule_53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_53/Rule_Condition_53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_53/Rule_Result_53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_54/Rule_54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_54/Rule_Condition_54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_54/Rule_Result_54.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_55/Rule_55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_55/Rule_Condition_55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_55/Rule_Result_55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_6/Rule_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_6/Rule_Condition_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_6/Rule_Result_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_7/Rule_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_7/Rule_Condition_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_7/Rule_Result_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_8/Rule_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_8/Rule_Condition_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_8/Rule_Result_8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_9/Rule_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_9/Rule_Condition_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_2_MinSupp_0.5_MinConf_0.6/Rule_9/Rule_Result_9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_Condition_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_Result_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_2/Rule_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_2/Rule_Condition_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_2/Rule_Result_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_3/Rule_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_3/Rule_Condition_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.4_MinConf_0.6/Rule_3/Rule_Result_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_Condition_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_1/Rule_Result_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_Condition_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_3_MinSupp_0.5_MinConf_0.6/Rule_2/Rule_Result_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_4_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_4_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_Condition_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_4_MinSupp_0.4_MinConf_0.6/Rule_1/Rule_Result_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_Condition_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_1/Rule_Result_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_Condition_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_2/Rule_Result_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_Condition_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_3/Rule_Result_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_Condition_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_4/Rule_Result_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_Condition_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_5/Rule_Result_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_Condition_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_6/Rule_Result_6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_Condition_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Out_put_W_60_K_5_MinSupp_0.3_MinConf_0.6/Rule_7/Rule_Result_7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2015.11.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2015.12.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.01.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.02.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.03.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.04.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.05.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.06.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.07.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.08.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.09.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.10.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_cellinfo/c_2016.11.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2015.11.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2015.12.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.01.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.02.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.03.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.04.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.05.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.06.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.07.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.08.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.09.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.10.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S1_extremeinfo/e_2016.11.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S2_extremeinfo/Mean_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S2_extremeinfo/Std_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S2_extremeinfo/normal_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/ABTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/ABVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/MAXTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/MAXVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/MINTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/MINVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/NORMALTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/NORMALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/SOC_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/TOTALCURRENT_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_120_K_5/TOTALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/ABTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/ABVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/MAXTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/MAXVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/MINTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/MINVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/NORMALTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/NORMALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/SOC_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/TOTALCURRENT_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_2/TOTALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/ABTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/ABVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/MAXTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/MAXVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/MINTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/MINVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/NORMALTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/NORMALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/SOC_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/TOTALCURRENT_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_3/TOTALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/ABTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/ABVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/MAXTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/MAXVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/MINTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/MINVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/NORMALTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/NORMALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/SOC_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/TOTALCURRENT_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_4/TOTALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/ABTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/ABVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/MAXTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/MAXVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/MINTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/MINVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/NORMALTEMPERATURE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/NORMALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/SOC_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/TOTALCURRENT_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S3_extremeinfo_W_60_K_5/TOTALVOLTAGE_2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/ABTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/ABTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/ABVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/ABVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/MAXTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/MAXTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/MAXVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/MAXVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/MINTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/MINTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/MINVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/MINVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/NORMALTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/NORMALTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/NORMALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/NORMALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/SOC_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/SOC_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/TOTALCURRENT_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/TOTALCURRENT_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/TOTALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_120_K_5/TOTALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/ABTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/ABTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/ABVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/ABVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/MAXTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/MAXTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/MAXVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/MAXVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/MINTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/MINTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/MINVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/MINVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/NORMALTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/NORMALTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/NORMALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/NORMALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/SOC_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/SOC_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/TOTALCURRENT_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/TOTALCURRENT_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/TOTALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_2/TOTALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/ABTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/ABTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/ABVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/ABVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/MAXTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/MAXTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/MAXVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/MAXVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/MINTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/MINTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/MINVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/MINVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/NORMALTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/NORMALTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/NORMALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/NORMALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/SOC_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/SOC_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/TOTALCURRENT_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/TOTALCURRENT_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/TOTALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_3/TOTALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/ABTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/ABTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/ABVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/ABVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/MAXTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/MAXTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/MAXVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/MAXVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/MINTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/MINTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/MINVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/MINVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/NORMALTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/NORMALTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/NORMALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/NORMALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/SOC_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/SOC_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/TOTALCURRENT_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/TOTALCURRENT_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/TOTALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_4/TOTALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/ABTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/ABTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/ABVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/ABVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/MAXTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/MAXTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/MAXVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/MAXVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/MINTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/MINTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/MINVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/MINVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/NORMALTEMPERATURE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/NORMALTEMPERATURE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/NORMALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/NORMALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/SOC_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/SOC_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/TOTALCURRENT_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/TOTALCURRENT_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/TOTALVOLTAGE_Centors2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S4_extremeinfo_W_60_K_5/TOTALVOLTAGE_Clustering2015_2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S5_extremeinfo_W_120_K_5/Association.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S5_extremeinfo_W_60_K_2/Association.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S5_extremeinfo_W_60_K_3/Association.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S5_extremeinfo_W_60_K_4/Association.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S5_extremeinfo_W_60_K_5/Association.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2015.11.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2015.12.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.01.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.02.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.03.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.04.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.05.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.06.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.07.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.08.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.09.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.10.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cellinfo/2016.11.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2015.11.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2015.12.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.01.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.02.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.03.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.04.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.05.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.06.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.07.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.08.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.09.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.10.01.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extremeinfo/2016.11.01.csv" />
+    <list default="true" id="7e40415c-f242-4f9b-b1f6-f2617a12fafb" name="Default" comment="update function in Statistics for additonal features">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFit.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GuoXuan.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/S1_extremeinfo/e_2015.11.01.csv" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -677,19 +17,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/GuoXuan$S6Apriori2.coverage" NAME="S6Apriori2 Coverage Results" MODIFIED="1479746402367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$RBFNN.coverage" NAME="RBFNN Coverage Results" MODIFIED="1479700751223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$S4Clustering.coverage" NAME="S4Clustering Coverage Results" MODIFIED="1479707473268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AssociationMining$Statistics.coverage" NAME="Statistics Coverage Results" MODIFIED="1480071608996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$S3.coverage" NAME="S3 Coverage Results" MODIFIED="1479706760316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$S2Norma.coverage" NAME="S2Norma Coverage Results" MODIFIED="1479819319815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$S5.coverage" NAME="S5 Coverage Results" MODIFIED="1479707490142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AssociationMining$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1479829177421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$Main.coverage" NAME="Main Coverage Results" MODIFIED="1479827583756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$S6.coverage" NAME="S6 Coverage Results" MODIFIED="1479702209233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AssociationMining$Test.coverage" NAME="Test Coverage Results" MODIFIED="1480346524716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$S1.coverage" NAME="S1 Coverage Results" MODIFIED="1479285618348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GuoXuan$test.coverage" NAME="test Coverage Results" MODIFIED="1479457483479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$S5.coverage" NAME="S5 Coverage Results" MODIFIED="1479707490142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/AssociationMining$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1479829177421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$test.coverage" NAME="test Coverage Results" MODIFIED="1479457483479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$S6Apriori2.coverage" NAME="S6Apriori2 Coverage Results" MODIFIED="1479746402367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$Main.coverage" NAME="Main Coverage Results" MODIFIED="1479827583756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$RBFNN.coverage" NAME="RBFNN Coverage Results" MODIFIED="1479700751223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$S3.coverage" NAME="S3 Coverage Results" MODIFIED="1479706760316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$S2Norma.coverage" NAME="S2Norma Coverage Results" MODIFIED="1479819319815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$S6.coverage" NAME="S6 Coverage Results" MODIFIED="1479702209233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$S4Clustering.coverage" NAME="S4Clustering Coverage Results" MODIFIED="1479707473268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/AssociationMining$Statistics.coverage" NAME="Statistics Coverage Results" MODIFIED="1480071608996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/GuoXuan$S1.coverage" NAME="S1 Coverage Results" MODIFIED="1479285618348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2016.2/coverage/AssociationMining$Test.coverage" NAME="Test Coverage Results" MODIFIED="1480346524716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -710,8 +50,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MAXVOLTAGE_avg_Day.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJOB1_extremeinfo2/MAXVOLTAGE_avg_Day.txt">
+      <file leaf-file-name="Battery_Max_Voltage_Distribution.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AJOB2_extremeinfo/Battery_Max_Voltage_Distribution.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="829" selection-start-line="0" selection-start-column="826" selection-end-line="0" selection-end-column="829" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="201511_SOC.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/201511_SOC.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -720,8 +70,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MAXVOLTAGE_avg_Month.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJOB1_extremeinfo2/MAXVOLTAGE_avg_Month.txt">
+      <file leaf-file-name="201511_TEMPERATURE.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/201511_TEMPERATURE.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
@@ -730,31 +80,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Na" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Na">
+      <file leaf-file-name="e_2016.10.01.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/S1_extremeinfo/e_2016.10.01.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="-12690">
+              <caret line="798" column="31" selection-start-line="798" selection-start-column="31" selection-end-line="798" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="201512_SOC.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/201512_SOC.txt">
+      <file leaf-file-name="AFit.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AFit.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TOTAL_SOC.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/TOTAL_SOC.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -763,14 +103,14 @@
       <file leaf-file-name="Statistics.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Statistics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state relative-caret-position="8910">
               <caret line="500" column="9" selection-start-line="500" selection-start-column="9" selection-end-line="500" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -783,7 +123,7 @@
       <file leaf-file-name="2011~~2012_M1.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2011~~2012_M1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3366">
+            <state relative-caret-position="5184">
               <caret line="288" column="17" selection-start-line="288" selection-start-column="17" selection-end-line="288" selection-end-column="17" />
               <folding />
             </state>
@@ -793,7 +133,7 @@
       <file leaf-file-name="utf_8.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.pyenv/versions/MyFlaskEnv/lib/python2.7/encodings/utf_8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
+            <state relative-caret-position="270">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
@@ -843,6 +183,7 @@
         <option value="$PROJECT_DIR$/Statistics.py" />
         <option value="$PROJECT_DIR$/2011~~2012_M1.txt" />
         <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/AFit.py" />
       </list>
     </option>
   </component>
@@ -899,6 +240,48 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="AssociationMining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssociationMining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssociationMining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S2_extremeinfo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssociationMining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssociationMining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S1_extremeinfo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssociationMining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssociationMining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AJOB3_extremeinfo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1251,7 +634,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7e40415c-f242-4f9b-b1f6-f2617a12fafb" name="Default" comment="" />
-      <changelist id="1e5ea418-6383-4849-a329-65cf597e2825" name="New changelist" comment="" />
       <created>1479282279682</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -1313,20 +695,27 @@
       <option name="project" value="LOCAL" />
       <updated>1480074098872</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New changelist">
+      <created>1480348836153</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1480348836153</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="697" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20678514" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21001616" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55094993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46977547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46977547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1353,11 +742,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="submit to git" />
-    <MESSAGE value="New changelist" />
     <MESSAGE value="add Statistics.py" />
     <MESSAGE value="add Statistics function for some features" />
     <MESSAGE value="update function in Statistics for additonal features" />
-    <option name="LAST_COMMIT_MESSAGE" value="update function in Statistics for additonal features" />
+    <MESSAGE value="New changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changelist" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
   <component name="XDebuggerManager">
@@ -1378,20 +767,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/S1_cellinfo/c_2015.12.01.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/S1_extremeinfo/e_2016.01.01.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="62" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/S1_cellinfo/c_2016.11.01.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1568,13 +943,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/201511_TEMPERATURE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/201610_TEMPERATURE.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1631,13 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/201511_SOC.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AJOB2_extremeinfo/Battery_Num_List.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1656,22 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJOB2_extremeinfo/Battery_Max_Voltage_Distribution.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJOB2_extremeinfo/Battery_Max_Temperature_Distribution.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1715,26 +1060,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/MyFlaskEnv/lib/python2.7/encodings/utf_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Statistics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="8910">
           <caret line="500" column="9" selection-start-line="500" selection-start-column="9" selection-end-line="500" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2011~~2012_M1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3366">
-          <caret line="288" column="17" selection-start-line="288" selection-start-column="17" selection-end-line="288" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1743,6 +1072,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2011~~2012_M1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5184">
+          <caret line="288" column="17" selection-start-line="288" selection-start-column="17" selection-end-line="288" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/MyFlaskEnv/lib/python2.7/encodings/utf_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJOB2_extremeinfo/Battery_Max_Temperature_Distribution.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJOB2_extremeinfo/Battery_Max_Voltage_Distribution.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="829" selection-start-line="0" selection-start-column="826" selection-end-line="0" selection-end-column="829" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/201511_SOC.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJOB3_extremeinfo/201511_TEMPERATURE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S1_extremeinfo/e_2016.10.01.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12690">
+          <caret line="798" column="31" selection-start-line="798" selection-start-column="31" selection-end-line="798" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AFit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
